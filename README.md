@@ -1,6 +1,6 @@
 # INFORIXS
 1. Importing the CSV file:
-# The code begins by importing the csv module, which provides functionality for working with CSV files.
+@ The code begins by importing the csv module, which provides functionality for working with CSV files.
 
 2. contact Dictionary:
 # This dictionary is used to store the contact data, where the contact name is the key and the corresponding mobile number is the value.
